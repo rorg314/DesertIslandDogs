@@ -27,10 +27,8 @@ Below are some screenshots of the prototype
 ![](./Screenshots/DesertIslandDogs.PNG)
 Desert island setting
 
-
 ![](./Screenshots/Interactions.PNG)
 Dogs interact with surrounding objects
-
 
 ![](./Screenshots/Interactions2.PNG)
 Dogs interact with eachother
