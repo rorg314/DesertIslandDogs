@@ -25,13 +25,12 @@ Scripts can be found in the [Assets/Scripts](./Assets/Scripts) folder.
 Below are some screenshots of the prototype
 
 ![](./Screenshots/DesertIslandDogs.PNG)
-
 Desert island setting
 
-![](./Screenshots/Interactions.PNG)
 
+![](./Screenshots/Interactions.PNG)
 Dogs interact with surrounding objects
 
-![](./Screenshots/Interactions2.PNG)
 
+![](./Screenshots/Interactions2.PNG)
 Dogs interact with eachother
